@@ -1,4 +1,4 @@
-# P1
+# AggieStack
 AggieStack CLI - A command line interface to manage virtual servers
 
 - Module uses persistent storage 'shelves' to keep configuration information.
