@@ -7,24 +7,6 @@ AggieStack CLI - A command line interface to manage virtual servers
 - Config files need to follow format of sample files provided in config folder.
 - Log file is generated in root directory.
 
-Time Taken:
-   - Project was completed in 12 hrs
-   - Part A (5 hours)
-        - Adding rack and virtual machine data members
-        - Created pre-processing for reading new hardware file
-        - Adding server functions
-        - Improving argparse for new instructions
-   - Part B (2 hours)
-        - Adding rack functions
-        - Adding provisions for Part C
-        - Improving argparse for new instructions
-   - Part C (1 hour)
-        - Completed provisions for managing image cache
-        - Updated rack functions with image cache
-        - Improving argparse for new instructions
-   - 1 hr was spent improving logging and adding functionality of reading commands from file
-   - 3 hrs were spent on testing and bug fixing
-
 Setup requirements:
    - Python 3.7.0
 
